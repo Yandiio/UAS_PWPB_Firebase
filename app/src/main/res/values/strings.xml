@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PWPB_CRUDFIREBASE_Example</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="nama_siswa">Nama Siswa</string>
+    <string name="simpan">Simpan</string>
+    <string name="kelas">Kelas</string>
+
+    <string-array name="Jurusan">
+        <item>Rekayasa Perangkat Lunak</item>
+        <item>Teknik Jaringan Komputer</item>
+        <item>MultiMedia</item>
+        <item>Teknik Listrik</item>
+        <item>Teknik Otomasi Industri</item>
+    </string-array>
+</resources>

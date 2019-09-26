@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425529622430",
+    "firebase_url": "https://crudexam-4596a.firebaseio.com",
+    "project_id": "crudexam-4596a",
+    "storage_bucket": "crudexam-4596a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425529622430:android:3b572a22a17d00bd8da08f",
+        "android_client_info": {
+          "package_name": "com.smkn4bdg.pwpb_crudfirebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425529622430-v7n4l9j4vktgiatom1mdm5iu1oo5o74g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smkn4bdg.pwpb_crudfirebase_example",
+            "certificate_hash": "6da1a5f810ce4d94fc267b403e540d9e22a72053"
+          }
+        },
+        {
+          "client_id": "425529622430-ppvgipl1vemb9lbj7kb1bq8pqd247geo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF48l_URXXNXMnly89Zp1X4o43zyvt--I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425529622430-ppvgipl1vemb9lbj7kb1bq8pqd247geo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
